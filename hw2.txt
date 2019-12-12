@@ -1,0 +1,1 @@
+https://nbviewer.jupyter.org/github/fogugy/gb_ml_bysiness/blob/master/hw2.ipynb
